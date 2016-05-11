@@ -1,0 +1,34 @@
+/* Empty. Add your own CSS if you like */
+.dict_set_list {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.dict_set_group {
+  font-size: 30px;
+  line-height: 40px;
+  float: left;
+  padding-bottom: 40px;
+  clear: both;
+}
+
+.dict_set_group_header {
+  padding-bottom: 20px;
+}
+
+.dict_set_item {
+  float: left;
+  text-align: center;
+  line-height: 30px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
+
+.dict_set_item:last-child {
+  clear: right;
+  padding-right: 0px;
+}
+
+.dict_pinyin {
+  font-size: 14px;
+}

@@ -1,0 +1,10 @@
+<ion-view view-title="{{dict_set_name(dict_set)}}">
+  <ion-content class="padding">
+    <div class="dict_set_group" ng-repeat="(key, set) in dict_set">
+      <div class="dict_set_group_header">{{key}}</div>
+      <ul>
+        <li class="dict_set_item" ng-repeat="(ch, pinyin) in set">{{ch}}<br /><span class="dict_pinyin">{{pinyin}}</span></li>
+      </ul>
+    </div>
+  </ion-content>
+</ion-view>

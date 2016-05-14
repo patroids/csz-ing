@@ -1,25 +1,13 @@
-Ionic App Base
+CSZ-ing: an Ionic App
 =====================
 
-A starting project for Ionic that optionally supports using custom SCSS.
+This app is for beginner-to-proficient level Chinese (Mandarin) speakers who have difficulties remembering the pinyin for commonly used words. These are words starting with c, s and z, versus those starting with ch, sh and zh. It also contains a guide for pinyin ending with "-in" versus "-ing". 
+
+This is not meant for those who do not know Chinese.
 
 ## Using this project
 
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
-
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
-
-```bash
-$ npm install -g ionic
-```
-
-Then run:
-
-```bash
-$ ionic start myProject tabs
-```
+This app was built using the Ionic Framework. Feel free to download and edit.
 
 More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
 
-## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
